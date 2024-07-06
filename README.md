@@ -6,22 +6,22 @@ cual se le han realizado unas mejoras solicitadas en la siguiente HU.
 
 Tareas a realizar
 A continuación se describen las tareas que debes realizar para completar la prueba:
-● Revisa las HU del módulo de inventario y familiarízate con las funcionalidades que
+- Revisa las HU del módulo de inventario y familiarízate con las funcionalidades que
 se esperan del mismo.
-● Crea un plan de pruebas que cubra todos los aspectos del módulo de inventario,
+- Crea un plan de pruebas que cubra todos los aspectos del módulo de inventario,
 incluyendo la creación y actualización de productos, transferencias de
 inventario y mejoras descritas en la HU.
-● Ejecuta las pruebas de acuerdo con el plan que has creado y documenta los
+- Ejecuta las pruebas de acuerdo con el plan que has creado y documenta los
 resultados.
-● Identifica y documenta cualquier problema que encuentres durante las pruebas.
+- Identifica y documenta cualquier problema que encuentres durante las pruebas.
 Requisitos
 Para completar esta prueba técnica, necesitarás lo siguiente:
-● Acceso a un servidor de Odoo que tenga instalado el módulo de inventario.
-● Conocimientos básicos de Odoo y una comprensión general de cómo funcionan los
+-  Acceso a un servidor de Odoo que tenga instalado el módulo de inventario.
+-  Conocimientos básicos de Odoo y una comprensión general de cómo funcionan los
 módulos en Odoo.
-● Experiencia previa en pruebas de software y la capacidad de crear planes de
+-  Experiencia previa en pruebas de software y la capacidad de crear planes de
 pruebas detallados.
-● Habilidad para documentar clara y concisamente los resultados de las pruebas y los
+- abilidad para documentar clara y concisamente los resultados de las pruebas y los
 problemas encontrados.
 Criterios de evaluación
 Se evaluará tu capacidad para realizar pruebas exhaustivas y documentar claramente los
